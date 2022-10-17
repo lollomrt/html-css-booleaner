@@ -5,9 +5,12 @@
 }
 
 header {
-    height: 600px;
-    background-image: url("./img/pattern.png");
-    background-size: cover;
+    width: 100%;
+    padding: 70px 0 20px 10px;
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-size: 35%;
+    background-repeat: repeat;
 }
 
 header img {
