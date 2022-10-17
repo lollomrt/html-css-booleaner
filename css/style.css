@@ -27,7 +27,7 @@ h1 {
 
 h4 {
     color: grey;
-    font-size: 25px;
+    font-size: 28px;
 }
 
 #the-booleaner {
@@ -45,4 +45,8 @@ div {
 
 h6 {
     font-size: 14px;
+}
+
+p, li, th, td {
+    font-size: 24px;
 }
