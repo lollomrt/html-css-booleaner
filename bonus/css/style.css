@@ -4,11 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    max-width: 1200px;
-    margin: auto;
-}
-
 header {
     width: 100%;
     padding: 70px 0 10px 10px;
@@ -22,8 +17,15 @@ header img {
     max-width: 20%;
 }
 
+header div {
+    max-width: 1200px;
+    margin: auto;
+}
+
 main, footer {
     padding-left: 10px;
+    max-width: 1200px;
+    margin: auto;
 }
 
 h1 {
