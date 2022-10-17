@@ -54,3 +54,26 @@ p, li, th, td {
 ul {
     list-style-position: inside;
 }
+
+table {
+    border-spacing: 0;
+    table-layout: auto;
+    width: 100%;
+}
+
+.intestazione {
+    background-color: #4ea0ff;
+}
+
+.riga-blu {
+    background-color: #b1e5f2;
+}
+
+th {
+    text-align: left;
+    color: white;
+}
+
+td, th {
+    width: 20%
+}
