@@ -1,7 +1,15 @@
 * {
     margin: 0px;
     padding: 0px;
-    box-sizing: borderbox;
+    box-sizing: border-box;
 }
 
+header {
+    height: 600px;
+    background-image: url("./img/pattern.png");
+    background-size: cover;
+}
 
+header img {
+    max-width: 15%;
+}
