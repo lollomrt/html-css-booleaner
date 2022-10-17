@@ -17,7 +17,7 @@ header img {
     max-width: 20%;
 }
 
-main {
+main, footer {
     padding-left: 10px;
 }
 
@@ -76,4 +76,27 @@ th {
 
 td, th {
     width: 20%
+}
+
+.immagine-footer-1 {
+    background-image: url("../img/monitor.jpg");
+    width: 400px;
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+.immagine-footer-2 {
+    background-image: url("../img/graph.jpg");
+    width: 400px;
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    color: white;
 }
