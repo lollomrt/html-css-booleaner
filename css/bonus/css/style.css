@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    padding: 70px 0 10px 10px;
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-size: 40%;
+    background-repeat: repeat;
+}
+
+header img {
+    max-width: 20%;
+}
+
+main, footer {
+    padding-left: 10px;
+}
+
+h1 {
+    font-size: 62px;
+}
+
+h4 {
+    color: grey;
+    font-size: 28px;
+}
+
+#the-booleaner {
+    color: #4ea0ff;
+}
+
+h5 {
+    color: grey;
+    font-size: 20px;
+}
+
+div {
+    margin: 30px 0;
+}
+
+h6 {
+    font-size: 14px;
+}
+
+p, li, th, td {
+    font-size: 24px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+table {
+    border-spacing: 0;
+    table-layout: auto;
+    width: 100%;
+}
+
+.intestazione {
+    background-color: #4ea0ff;
+}
+
+.riga-blu {
+    background-color: #b1e5f2;
+}
+
+th {
+    text-align: left;
+    color: white;
+}
+
+td, th {
+    width: 20%
+}
+
+.immagine-footer-1 {
+    background-image: url("../img/monitor.jpg");
+    width: 400px;
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+.immagine-footer-2 {
+    background-image: url("../img/graph.jpg");
+    width: 400px;
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    color: white;
+}
